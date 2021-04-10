@@ -1,0 +1,59 @@
+body{
+    background-color:white;
+    color:orchid;
+}
+
+.center {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 15px;
+    font-size: 35px;
+    color: pink;
+    font-weight: bolder;
+    padding-left: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.navbar-brand {
+    color: black!important;
+    font-weight: bold;
+    font-size: 35px;
+    background-color: whitesmoke (146, 3, 3);
+    border: 10px;
+    padding: 10px;
+}
+.plot-images {
+    height: 300px;
+    width: 400px;
+}
+
+.par-font{
+    font-size: 18px;
+    color:darkgrey;
+    font-weight: bold;
+    line-height: 40pt;
+    text-align:justify;
+    font-style:oblique;
+    color:pink;
+}
+.visualization-images {
+    height: 100px;
+    width: 400px;
+}
+h4.font{
+    text-align: center;
+    color: #dc3545;
+    font-weight: bolder;
+
+}
+.navbar a:hover {
+    background-color: pink;
+    color:white;
+
+}
+.pstyle{
+    color:darkolivegreen;
+    margin-bottom: 15px;
+    text-align: center;
+    margin-top:15px;
+    font-weight: bold;
+}
